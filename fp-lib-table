@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "DRV8870 BDC Motor Driver")(type KiCad)(uri "${KIPRJMOD}/Library/DRV8870 BDC Motor Driver.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "DRV8870 BDC Motor Driver SCH")(type Legacy)(uri "${KIPRJMOD}/Library/DRV8870 BDC Motor Driver SCH.lib")(options "")(descr ""))
+  (lib (name jumper_0805)(type Legacy)(uri ${KIPRJMOD}/Library/jumper_0805.lib)(options "")(descr ""))
+  (lib (name drv8870)(type Legacy)(uri ${KIPRJMOD}/Library/drv8870.lib)(options "")(descr ""))
+  (lib (name j0805)(type Legacy)(uri ${KIPRJMOD}/Library/j0805.lib)(options "")(descr ""))
+  (lib (name pcb_terminal_2.54_6w)(type Legacy)(uri ${KIPRJMOD}/Library/pcb_terminal_2.54_6w.lib)(options "")(descr ""))
+  (lib (name pinconnector1x08)(type Legacy)(uri ${KIPRJMOD}/Library/pinconnector1x08.lib)(options "")(descr ""))
+)
